@@ -6,11 +6,11 @@ Currently in my 2nd year, I am passionate about building automated systems and e
 
 ---
 
-### 🚀 What I'm working on
-- 🛠️ Mastering **Docker** and **Kubernetes** for system orchestration.
-- 🐧 Deep diving into **Linux Administration** (Ubuntu/Debian).
+### What I'm working on
+- Mastering **Docker** and **Kubernetes** for system orchestration.
+- Deep diving into **Linux Administration** (Ubuntu/Debian).
 
-### 🎯 My Goals (2026 - 2028)
+### My Goals (2026 - 2028)
 - [ ] **IELTS 6.5+** (Improving technical English)
 - [ ] **CCNA** (Solidifying networking foundations)
 - [ ] **AWS Certified Solutions Architect – Associate**
