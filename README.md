@@ -16,6 +16,6 @@ Currently in my 2nd year, I am passionate about building automated systems and e
 - [ ] **AWS Certified Solutions Architect – Associate**
 - [ ] **Certified Kubernetes Administrator (CKA)**
 
-### 🛠️ Tech Stack
+### Tech Stack
 - **Languages:** C++, Python, SQL
 - **Platforms:** Linux (Ubuntu), Docker, Kubernetes
